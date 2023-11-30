@@ -1,6 +1,6 @@
 # Hello
 
-this is my list of solutions for the challenges proposed as part of codember 2023
+this is my list of solutions for the challenges proposed as part of [codember 2023](https://codember.dev/)
 
 ## to run each challenge just 
 
